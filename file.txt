@@ -1,0 +1,49 @@
+UAlbany%1400 Washington Ave%Albany%NY%122225%Watch for skateboarders%1%Undelivered%42.687623%-73.822483
+House12%28 Pleasant Ct%Cohoes%NY%12047%null%1%Undelivered%42.784034%-73.722347
+House1%17 Van Buren Ave%Albany%NY%122205%Leave on porch%1%Undelivered%42.700271%-73.814077
+House2%4 Katherine Rd%Albany%NY%122205%null%1%Undelivered%42.702300%-73.819768
+House8%15 Ashford Dr%Clifton Park%NY%12065%null%1%Undelivered%42.804295%-73.800459
+House3%4 Winifred Dr%Albany%NY%122205%Leave behind chair on porch%2%Undelivered%42.705485%-73.793303
+House4%12 Grandy St%Albany%NY%122205%null%2%Undelivered%42.740725%-73.864214
+House5%10 Garling Dr%Albany%NY%121105%Dog on premises%1%Undelivered%42.758850%-73.791127
+House6%4 Brookhaven Dr%Niskayuna%NY%12309%null%2%Undelivered%42.782998%-73.841691
+House7%357 Riverview Rd%Rexford%NY%12148%Garage%1%Undelivered%42.797043%-73.828954
+House9%17 Shaker Bay Rd%Latham%NY%12110%null%2%Undelivered%42.784127%-73.781640
+House13%3 Winding Creek Way%Cohoes%NY%12047%null%1%Undelivered%42.794368%-73.718742
+House10%15 Grandview Dr%Latham%NY%12110%null%1%Undelivered%42.744853%-73.766262
+House11%10 Oaks Dr%Cohoes%NY%12047%null%1%Undelivered%42.766098%-73.741783
+House14%1 Krug Ct%Albany%NY%12211%null%1%Undelivered%42.698295%-73.771800
+House15%5 Pateman Cir%Menands%NY%12204%null%1%Undelivered%42.694826%-73.744591
+House16%146 Spring St Rd%Watervliet%NY%12189%null%1%Undelivered%42.713716%-73.727082
+House17%24 Brookside Ave%Menands%NY%12204%null%1%Undelivered%42.692334%-73.727811
+House18%1699 1st St%Rensselaer%NY%12144%null%1%Undelivered%42.657271%-73.733020
+House19%1099 1st St%Rensselaer%NY%12144%null%1%Undelivered%42.648706%-73.737219
+House20%42 Brookwood Dr%Latham%NY%12110%null%1%Undelivered%42.742715%-73.773898
+House21%6 Alpine Dr%Latham%NY%12110%null%1%Undelivered%42.770239%-73.780016
+House22%58 Alpine Dr%Latham%NY%12110%null%1%Undelivered%42.774092%-73.787416
+House23%24 Birch Glen Dr%Waterford%NY%12188%null%1%Undelivered%42.824056%-73.700960
+House24%75 Weaver Ave%Troy%NY%12182%null%1%Undelivered%42.789776%-73.639476
+House25%37 Chester Ct%Troy%NY%12182%null%1%Undelivered%42.789760%-73.645291
+House26%7 Glade Dr%Schenectady%NY%12309%null%1%Undelivered%42.751422%-73.844819
+House27%75 Ash Tree Ln%Schenectady%NY%12309%null%1%Undelivered%42.769580%-73.839631
+House28%126 Butternut Dr%Niskayuna%NY%12309%null%1%Undelivered%42.771184%-73.861613
+House29%678 Valley Pointe Dr%Niskayuna%NY%12309%null%1%Undelivered%42.773126%-73.828475
+House30%7 Northview Dr%Latham%NY%12110%null%1%Undelivered%42.769908%-73.812765
+House33%28 Gaslight Dr%Albany%NY%12205%null%1%Undelivered%42.747263%-73.842991
+House34%3 Juniper Ct%Schenectady%NY%12309%null%1%Undelivered%42.747707%-73.842657
+House35%2964 Holly Hill Ln%Niskayuna%NY%12309%null%1%Undelivered%42.775495%-73.836784
+House36%719 7th Ave%Watervliet%NY%12189%null%1%Undelivered%42.716504%-73.709835
+House37%536 8th St%Watervliet%NY%12189%null%1%Undelivered%42.716917%-73.708828
+House38%478 1st St%Troy%NY%12180%null%1%Undelivered%42.712213%-73.696606
+House39%20 Donegal Ave%Troy%NY%12180%null%1%Undelivered%42.701912%-73.676609
+House40%31 Snyders Lake Rd%Wynantskill%NY%12198%null%1%Undelivered%42.665648%-73.687131
+House41%2024 8th St%Rensselaer%NY%12144%null%1%Undelivered%42.659096%-73.724556
+House42%1329 4th Ave%Watervliet%NY%12189%null%1%Undelivered%42.724844%-73.705838
+House43%2770 6th Ave%Troy%NY%12180%null%1%Undelivered%42.744156%-73.682131
+House44%91 Central Ave%Cohoes%NY%12047%null%1%Undelivered%42.766495%-73.704224
+House45%3 Masten Ave%Cohoes%NY%12047%null%1%Undelivered%42.775291%-73.711635
+House46%23 Suncrest Dr%Waterford%NY%12188%null%1%Undelivered%42.817939%-73.703497
+House47%1 Cappabianca Dr%Waterford%NY%12188%null%1%Undelivered%42.822752%-73.710863
+House48%10 Stage Run%Waterford%NY%12188%null%1%Undelivered%42.844875%-73.727440
+House49%2 David Ln%Clifton Park%NY%12065%null%1%Undelivered%42.845127%-73.741106
+House51%49 Tryon Ct%Albany%NY%12203%null%1%Undelivered%42.676670%-73.826938

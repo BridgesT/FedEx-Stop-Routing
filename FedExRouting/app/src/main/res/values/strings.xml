@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FedEx Routing</string>
+    <string name="title_activity_maps">Stop Routing</string>
+    <string name="nextButton">Button</string>
+</resources>
